@@ -2157,11 +2157,7 @@
             "$ref": "MemberListResponse"
           },
           "scopes": [
-            "https://www.googleapis.com/auth/youtube",
-            "https://www.googleapis.com/auth/youtube.channel-memberships.creator",
-            "https://www.googleapis.com/auth/youtube.force-ssl",
-            "https://www.googleapis.com/auth/youtube.readonly",
-            "https://www.googleapis.com/auth/youtubepartner"
+            "https://www.googleapis.com/auth/youtube.channel-memberships.creator"
           ]
         }
       }
@@ -2190,11 +2186,7 @@
             "$ref": "MembershipsLevelListResponse"
           },
           "scopes": [
-            "https://www.googleapis.com/auth/youtube",
-            "https://www.googleapis.com/auth/youtube.channel-memberships.creator",
-            "https://www.googleapis.com/auth/youtube.force-ssl",
-            "https://www.googleapis.com/auth/youtube.readonly",
-            "https://www.googleapis.com/auth/youtubepartner"
+            "https://www.googleapis.com/auth/youtube.channel-memberships.creator"
           ]
         }
       }
@@ -3855,7 +3847,7 @@
       }
     }
   },
-  "revision": "20201110",
+  "revision": "20201127",
   "rootUrl": "https://youtube.googleapis.com/",
   "schemas": {
     "AbuseReport": {
